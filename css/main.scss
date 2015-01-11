@@ -1,0 +1,447 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: Verdana, Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Using media queries with like this:
+// @include media-query($palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "font-awesome"
+;
+
+// MY CODE
+
+body{
+  font-size:20px;
+  line-height:1.4em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color:#333;
+}
+
+@media screen and (max-width: 728px) {
+		body{
+			font-size:16px;
+		}
+	}
+
+@media screen and (max-width: 320px) {
+		body{
+			font-size:12px;
+		}
+	}
+
+.wrapper{
+	max-width:35em;
+	padding:10px;
+	margin: 0 auto;
+	background-color:white;
+}
+
+h1, h1 a, h2, h3, h4{
+  color: #d71920;
+  //font-family: Verdana, Helvetica, sans-serif;
+}
+
+h1{
+  font: normal bold 2em;
+  text-transform: uppercase;
+  margin:1.5em 0;
+}
+
+#logo{
+	display: block;
+	max-width:50%;
+	margin:0 auto;
+}
+
+a.site-title{
+	text-decoration: none;
+}
+
+h2{
+  font-size:1.5em;
+	background-repeat: no-repeat;
+	background-position:center left;
+	margin:1.4em 0;
+}
+
+h2 span{
+  color:#666;
+}
+
+
+p{
+  margin-bottom:1em;
+}
+
+.notes{
+	font-size:0.75em;
+	color:#ccc;
+}
+
+p a{
+	//color:#d71920; /*#999*/
+	text-decoration:none;
+	color: inherit;
+	border-bottom: 1px dashed #333;
+}
+
+p a:hover{
+	border-bottom: 1px dashed #d71920;
+	color: #666
+}
+  
+li a{
+  color: #333;
+  text-decoration:none;
+  font-style: italic;
+  border-bottom: 1px dashed #333;
+}
+
+a:hover{
+  color:#333;
+}
+
+
+/* NAV */
+
+nav ul{
+	margin: 0;
+	padding: 0;
+}
+
+
+nav li{
+	float: left;
+	list-style-type:none;
+	width:50%;
+	border-bottom:2px solid #d71920;
+	border-top:2px solid #d71920;
+	margin:2em 0;
+
+}
+
+nav li a{
+	color:#d71920;
+	font-family: Helvetica, sans-serif;
+	display: block;	
+	font-size:1em;
+	font-weight: bold;
+	background-color: #eee;
+	text-align:center;
+	padding:0.8em 0;
+	text-decoration: none;
+}
+
+nav li a:hover{
+	background-color: #ccc;
+}
+
+ul{
+	list-style-type: square;
+}
+
+ol{
+	list-style-type: decimal;
+}
+
+ul, ol{
+	margin-bottom:1.5em;
+}
+
+li{
+	line-height:1.5em;
+}
+
+img{
+	max-width:100%;
+	display: block;
+	margin:0 auto;
+	/*border:2px solid #333;*/
+}
+
+.caption img{
+	display:block;
+	margin:0 auto;
+	margin-bottom:10px;
+}
+
+.caption{
+	color:#999;
+	font-style: italic;
+	font-size:14px;
+	text-align:center;
+}
+
+/* RUBRIC */
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  font-family:Helvetica, sans-serif;
+  font-size:14px;
+  line-height:22px;
+  margin:1em 0;
+}
+
+#sked{
+	text-align:left;
+}
+
+th, td{
+  padding:4px 10px;
+}
+
+th, td[colspan="2"]{
+  background-color:#333;
+  color:white;
+  font-weight:bold;
+  text-align:left;
+}
+
+td:nth-child(2n), th:nth-child(2n){
+  width:15%;
+  text-align:right;
+	vertical-align:middle;
+}
+
+#sked td:nth-child(1n){
+	width:4%;
+	text-align: center;
+	vertical-align:top;
+	font-weight: bold;
+	/*font-size:2em;*/
+}
+
+#sked td:nth-child(2n), #sked th:nth-child(2n){
+  width:48%;
+	text-align: left;
+	vertical-align:top;
+	font-weight: normal;
+	font-size:1em;
+}
+
+#sked td:nth-child(3n), #sked th:nth-child(3n){
+  width:48% !important;
+	text-align: left;
+	vertical-align:top;
+	font-weight: normal;
+	font-size:1em;
+}
+
+#sked tr:nth-child(8n){
+	background-color: #666;
+	color: white;
+	font-style: italic;
+}
+
+tr:nth-child(2n){
+  background-color:#eee;
+}
+
+#sked strong{
+	color:#d71920;
+}
+
+#qr td{
+	width:25%;
+	text-align:center;
+}
+
+#qr td a{
+	opacity:0.2;
+	display: block;
+}
+
+#qr td a:hover{
+	opacity:1;
+}
+
+
+footer{
+	-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+  width:100%;
+  padding:20px;
+  background-color:black;
+  color:white;
+}
+
+footer p{
+  color:white;
+  text-align: center;
+}
+
+footer a, footer a:hover{
+	color: white;
+}
+
+
+
+#penguin{
+  display:block;
+  width:120px;
+  height:150px;
+  background-image:url(../images/penguin.gif);
+  background-repeat:no-repeat;
+  background-position:top left;
+  position:fixed;
+  left:1140px;
+  bottom:0;
+  text-indent:-9999px;
+}
+
+#penguin:hover{
+  background-position:bottom left;
+}
+
+.notes{
+  font-family: Helvetica, sans-serif;
+  color: #666;
+  font-size:12px;
+  font-style: italic;
+}
+
+#listing{
+	padding:0;
+}
+
+#listing li{
+	list-style-type: none;
+	line-height: 1.5em;
+	padding:0;
+}
+
+#listing a{
+	text-decoration: none;
+	color: #333;
+	padding:5px;
+}
+
+#listing a:hover{
+	background-color:#eee;
+}
+
+.trigger a{
+	font-size:0.8em;
+	text-decoration: none;
+}
+
+// link icons
+
+h2 + ul li{
+	list-style-type:none
+}
+
+h2 + ul{
+	margin:0;
+	padding:0 0 0 20px;
+}
+
+ul li a:before{
+	list-style-type:none;
+	font-family: 'FontAwesome';
+	font-style:normal;
+}
+
+ul li a{
+	border-bottom: none;
+}
+
+ul li a:before, {
+	padding:0;
+	margin: 0 0 0 10px;
+	text-indent:-40px;
+	text-align:center;
+	display:inline-block;
+	color: #d71920;
+}
+
+ul li a[href$=".pdf"]:before{
+  content: "\f1c1";
+}
+ul li a[href^="https://"]:before
+ul li a[href^="http://"]:before{
+  content: "\f0c1";
+}
+
+ul li a[href^="http://www.amazon.ca"]:before{
+  content: "\f02d";
+}
+
+ul li a[href^="http://www.youtube.com"]:before, 
+ul li a[href^="https://www.youtube.com"]:before,
+ul li a[href^="http://youtu.be"]:before, 
+ul li a[href^="https://vimeo.com"]:before,
+ul li a[href^="http://www.vimeo.com"] 
+ul li a[href^="http://tv.adobe.com"]:before, 
+ul li a[href^="http://adobe.ly"]:before{
+	content: "\f03d"; 
+}
+
+ul li a:before{
+	content: "\f0c1";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

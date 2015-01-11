@@ -1,0 +1,9 @@
+# Site settings
+title: "Topics & Issues in Design"
+title_full: "Topics & Issues in Design — NPF 558"
+course_code: NPF 558
+email: ryan.price@ryerson.ca
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
+markdown: kramdown
