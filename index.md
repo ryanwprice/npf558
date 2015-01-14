@@ -36,7 +36,7 @@ Students are encouraged to take notes during the lectures. Students who want to 
 
 ### Office Hours
 
-My office is in room ___ and I will be available an hour before class as well as immediately after class. 
+My office is IMA362, and I will be available an hour before class as well as immediately after class. 
 
 ### Email
 

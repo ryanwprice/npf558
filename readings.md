@@ -3,6 +3,7 @@ layout: default
 title: Readings
 permalink: /readings/
 ---
+Readings are to be completed _before_ the start of the class noted below. 
 
 ## Week 2 
 - [Ed Ruscha: When Art Rises to the Level of Graphic Design](http://designobserver.com/feature/ed-ruscha-when-art-rises-to-the-level-of-graphic-design/2307/) by Michael Bierut
@@ -57,4 +58,8 @@ permalink: /readings/
 # Suggested Readings
 
 - [An incomplete manifesto for growth](http://www.cbc.ca/thecurrent/manifesto-Bruce-Mau.pdf) by Bruce Mau
-- 
+- [Graphic Design the New Basics](http://www.amazon.ca/dp/1568987021) by Ellen Lupton and Jennifer Cole Phillips
+- [Thinking with Type](http://www.amazon.ca/dp/1568989695) by Ellen Lupton
+- [Design of Everyday Thing](http://www.amazon.ca/dp/0465050654) by Don Norman
+- [Helvetica](http://www.hustwit.com/category/helvetica/) by Gary Hustwit
+- [Objectified](http://www.hustwit.com/category/objectified/) by Gary Hustwit
