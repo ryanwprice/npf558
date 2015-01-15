@@ -73,7 +73,6 @@ body{
 	max-width:35em;
 	padding:10px;
 	margin: 0 auto;
-	background-color:white;
 }
 
 h1, h1 a, h2, h3, h4{
@@ -370,58 +369,58 @@ footer a, footer a:hover{
 // link icons
 
 h2 + ul li{
-	list-style-type:none
+	list-style-type:square
 }
 
-h2 + ul{
-	margin:0;
-	padding:0 0 0 20px;
-}
+// h2 + ul{
+// 	margin:0;
+// 	padding:0 0 0 20px;
+// }
 
-ul li a:before{
-	list-style-type:none;
-	font-family: 'FontAwesome';
-	font-style:normal;
-}
+// ul li a:before{
+// 	list-style-type:none;
+// 	font-family: 'FontAwesome';
+// 	font-style:normal;
+// }
 
-ul li a{
-	border-bottom: none;
-}
+// ul li a{
+// 	border-bottom: none;
+// }
 
-ul li a:before, {
-	padding:0;
-	margin: 0 0 0 10px;
-	text-indent:-40px;
-	text-align:center;
-	display:inline-block;
-	color: #d71920;
-}
+// ul li a:before, {
+// 	padding:0;
+// 	margin: 0 0 0 10px;
+// 	text-indent:-40px;
+// 	text-align:center;
+// 	display:inline-block;
+// 	color: #d71920;
+// }
 
-ul li a[href$=".pdf"]:before{
-  content: "\f1c1";
-}
-ul li a[href^="https://"]:before
-ul li a[href^="http://"]:before{
-  content: "\f0c1";
-}
+// ul li a[href$=".pdf"]:before{
+//   content: "\f1c1";
+// }
+// ul li a[href^="https://"]:before
+// ul li a[href^="http://"]:before{
+//   content: "\f0c1";
+// }
 
-ul li a[href^="http://www.amazon.ca"]:before{
-  content: "\f02d";
-}
+// ul li a[href^="http://www.amazon.ca"]:before{
+//   content: "\f02d";
+// }
 
-ul li a[href^="http://www.youtube.com"]:before, 
-ul li a[href^="https://www.youtube.com"]:before,
-ul li a[href^="http://youtu.be"]:before, 
-ul li a[href^="https://vimeo.com"]:before,
-ul li a[href^="http://www.vimeo.com"] 
-ul li a[href^="http://tv.adobe.com"]:before, 
-ul li a[href^="http://adobe.ly"]:before{
-	content: "\f03d"; 
-}
+// ul li a[href^="http://www.youtube.com"]:before, 
+// ul li a[href^="https://www.youtube.com"]:before,
+// ul li a[href^="http://youtu.be"]:before, 
+// ul li a[href^="https://vimeo.com"]:before,
+// ul li a[href^="http://www.vimeo.com"] 
+// ul li a[href^="http://tv.adobe.com"]:before, 
+// ul li a[href^="http://adobe.ly"]:before{
+// 	content: "\f03d"; 
+// }
 
-ul li a:before{
-	content: "\f0c1";
-}
+// ul li a:before{
+// 	content: "\f0c1";
+// }
 
 
 

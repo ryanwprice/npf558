@@ -54,7 +54,9 @@ A sign-up sheet will be available on week 2 to book your presentation time.
 
 ## Assignment 2 - Design Essay
 
-You will be expected to produce a 1200-word essay that will explore an aspect of design covered over the course of the term and expand on the ideas discussed in class. You can discuss the topic as it relates to your own area of practice, or simply be a thought or idea of particular interest to you. 
+You will be expected to produce a 1200-word essay that will explore an aspect of design covered over the course of the term and expand on the ideas discussed in class. You can discuss the topic as it relates to your own area of practice, or simply as a thought or idea of particular interest to you. 
+
+The essays will be curated and presented as an online magazine and e-book. Options for a physical copy will be discussed and decided by the class.
 
 The assignment is due at the start of the last class before the semester break. More details will be provided later in the term.
 
@@ -64,7 +66,7 @@ Essays will be submitted in person as a print copy as well as submitted electron
 
 ### Print
 
-You will be expected to produce a tabloid-sized poster which answers the question “what is design?”. The aesthetic is completely up to you, but it should reflect your answer to the question and thoughtfully consider the design principles discussed over the course of the term. The poster text  should not exceed 500 words. Wherever possible, images should be your own, and at the very least, given proper attribution.
+You will be expected to produce a tabloid-sized poster which answers the question “what is design?”. The aesthetic is completely up to you, but it should reflect your answer to the question and thoughtfully consider the design principles discussed over the course of the term. The poster text should not exceed 500 words. Wherever possible, images should be your own, and at the very least, given proper attribution.
 
 Provide a high-resolution copy of your poster as PDF. Include with the poster a 'manifesto'; your 500 words printed, double spaced. The files can be emailed with the subject "NPF 558 final assignment" or submit via Dropbox.
 
