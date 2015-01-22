@@ -6,7 +6,7 @@ permalink: /assignments/
 
 ## Assignment 1: Presentation
 
-The first assignment will be group presentations on a selected designer. This assignment is an opportunity to learn from a specific leader in the design industry. Groups will consist of two students, giving a 20 minute presentation which includes a 15-minute talk (divided equally between presenters), followed by 5 minutes for questions from the class. Appropriate visuals should be used (PowerPoint, Keynote, Prezi, etc.) and each student is required to provide a printed one-page brief outlining their respective content. The presentations will focus on the design work of the individual(s), but should also include discussion of their other artistic interests (if applicable) as well as a brief biographical history.
+The first assignment will be group presentations on a selected designer. This assignment is an opportunity to learn from a specific leader in the design industry. Groups will consist of <strike>two</strike> three students, giving a 20 minute presentation which includes a 15-minute talk (divided equally between presenters), followed by 5 minutes for questions from the class. Appropriate visuals should be used (PowerPoint, Keynote, Prezi, etc.) and each student is required to provide a printed one-page brief outlining their respective content. The presentations will focus on the design work of the individual(s), but should also include discussion of their other artistic interests (if applicable) as well as a brief biographical history.
 
 Presentations will occur over the course of the term, as per the dates selected during sign-up. Attendance for all presentations is mandatory. 
 
