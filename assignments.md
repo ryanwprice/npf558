@@ -52,33 +52,82 @@ A sign-up sheet will be available on week 2 to book your presentation time.
 - Marian Bantjes
 - Arnaud Maggs
 
-## Assignment 2 - Design Essay
-
-You will be expected to produce a 1200-word essay that will explore an aspect of design covered over the course of the term and expand on the ideas discussed in class. You can discuss the topic as it relates to your own area of practice, or simply as a thought or idea of particular interest to you. 
-
-The essays will be curated and presented as an online magazine and e-book. Options for a physical copy will be discussed and decided by the class.
-
-The assignment is due at the start of the last class before the semester break. More details will be provided later in the term.
-
-Essays will be submitted in person as a print copy as well as submitted electronically.
-
-## Assignment 3 - What is Design?
+## Assignment 2 - What is Design?
 
 ### Print
 
-You will be expected to produce a tabloid-sized poster which answers the question “what is design?”. The aesthetic is completely up to you, but it should reflect your answer to the question and thoughtfully consider the design principles discussed over the course of the term. The poster text should not exceed 500 words. Wherever possible, images should be your own, and at the very least, given proper attribution.
+You will be expected to produce a tabloid-sized poster (11x17) which answers the question “what is design?”. The aesthetic is completely up to you, but it should reflect your answer to the question and thoughtfully consider the design principles discussed over the course of the term. The poster text should not exceed 500 words. Wherever possible, images should be your own, and at the very least, given proper attribution.
 
-Provide a high-resolution copy of your poster as PDF. Include with the poster a 'manifesto'; your 500 words printed, double spaced. The files can be emailed with the subject "NPF 558 final assignment" or submit via Dropbox.
+Provide a high-resolution copy of your poster as a PDF. Include with the poster a 'manifesto': your 500 words printed, double spaced. Your poster should be burned to disc or on a USB drive (which will be returned after the break week).
 
-The assignment is due at the start of the last class of the term. More details will be provided later in the term.
+The assignment is due at the start of the last class before reading week. 
 
 or 
 
 ### Video
 
-You will be expected to produce a video clip which answers the question “what is design?”. The video should not be more than 1 minute and no less that 30 seconds. A narration of some kind should be included to aide in answering the question. The script should not exceed 500 words. The aesthetic is completely up to you, but it should reflect your answer to the question and thoughtfully consider the design principles discussed over the course of the term. Wherever possible, imagery should be your own, and at the very least, given proper attribution.
+You will be expected to produce a video which answers the question “what is design?”. The video should not be more than 1 minute and no less that 30 seconds. A narration of some kind should be included to aide in answering the question. The script should not exceed 500 words. The aesthetic is completely up to you, but it should reflect your answer to the question and thoughtfully consider the design principles discussed over the course of the term. Wherever possible, imagery should be your own, and at the very least, given proper attribution.
 
-Please submit your film online, via Vimeo, Dropbox, etc. (as long as the file can be downloaded). Include with the video a 'manifesto'; your 500 words printed, double spaced.
+Please submit your video on a burned disc or USB drive (which will be returned after the break week). Include with the video a 'manifesto'; your 500 words printed, double spaced.
 
-The assignment is due at the start of the last class of the term. More details will be provided later in the term.
+The assignment is due at the start of the last class before reading week
+
+_Note: If you feel you do not have the technical skills necessary for this assignment, please come see me well in advance of the deadline so we can work out an agreeable alternative to the poster/video component._
+
+
+## Assignment 3 - Design Essay
+
+You will be expected to produce a 1000–1200 word essay that will explore an aspect of design covered over the course of the term and expand on the ideas discussed in class. You can discuss the topic as it relates to your own area of practice, or simply as a thought or idea of particular interest to you. 
+
+The essays will be curated and presented as an online magazine and e-book. Options for a physical copy will be discussed and decided by the class.
+
+The assignment is due at the start of the last class of the term.
+
+Essays will be submitted in person as a print copy as well as submitted electronically.
+
+### Formatting
+
+To facilitate easy conversion for the online magazine and e-book (and print edition?), you will be asked to write your essay using a specific coding language, _Markdown_. This may seem like a difficult hurdle, but the language is very straighforward and there is a [syntax guide](http://daringfireball.net/projects/markdown/syntax) available to help you out.
+
+There are several editors which may also prove useful, but any text editor will suffice, as long as the file extension is _md_.
+
+### Markdown editors:
+
+- [iA Writer](https://ia.net/writer/mac/) — My personal favourite, but it also costs money
+- [Dillenger](http://dillinger.io/) — Free, web-based
+- [MarkdownPad](http://markdownpad.com/) — Free & Paid, Windows
+- [Mou](http://25.io/mou/) — Free, Mac
+- [Texts](http://www.texts.io/) — Free, Mac & Windows
+- [35+ Markdown apps for Mac](http://mac.appstorm.net/roundups/productivity-roundups/35-markdown-apps-for-the-mac/) — Many, many, more!
+
+### Metadata
+
+You are also required to include a set of metadata about your file. This is included at the start of your md file and should look like the example below:
+
+	---
+	title: Why Comic Sans is Great
+	lname: Price
+	fname: Ryan
+	email: ryan.price@ryerson.ca
+	web: ryerson.ryanprice.net
+	bio: Lorem ipsum dolor sit... 
+	---
+
+You can download the [sample.zip](/assets/sample.zip) file or copy & paste the text (including the dashes) above to get you started.
+
+### Images
+
+What would a design publication be without images? Along with your essay, please include two images: a headshot, and an image to accompany the text.
+
+The headshot is for your author bio and should be cropped to 400x400px and saved as a jpeg. The filename should be all lowercase and written as _lastname-firstname-headshot.jpg_.
+
+Your main image can be whatever you want, but should help enhance the message of your essay in some way. Please do not put any text in the image, as it may be cropped during production. The final image must be 1500x850px and saved as a jpeg. The filename should be all lowercase and written as _lastname-firstname.jpg_.
+
+### Citations
+
+If you reference any books, Web sites, magazines, etc., you must properly cite the source(s) at the end of your essay. Please use either APA or MLA formatting for all citations; the choice is up to you. A wonderful reference for formatting cited works is [Purdue OWL](https://owl.english.purdue.edu).
+
+
+
+
  
