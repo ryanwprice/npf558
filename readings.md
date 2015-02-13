@@ -25,12 +25,12 @@ Readings are to be completed _before_ the start of the class noted below.
 
 ## Week 6 
 
-- [The Design Lesson](http://www.andyrutledge.com/the-design-lesson.php) by Andy Rutledge
-- [Delight and Accommodation](http://read.shapeofdesignbook.com/chapter09.html) by Frank Chimero
+- [Modern Hieroglyphs](http://visualizedata.files.wordpress.com/2012/02/modern_hieroglyphs.pdf) by Ellen Lupton & Abbott Miller
 
 ## Week 7 
 
-- [Modern Hieroglyphs](http://visualizedata.files.wordpress.com/2012/02/modern_hieroglyphs.pdf) by Ellen Lupton & Abbott Miller
+- [The Design Lesson](http://www.andyrutledge.com/the-design-lesson.php) by Andy Rutledge
+- [Delight and Accommodation](http://read.shapeofdesignbook.com/chapter09.html) by Frank Chimero
 
 ## Week 8 
 
@@ -60,6 +60,7 @@ Readings are to be completed _before_ the start of the class noted below.
 - [An incomplete manifesto for growth](http://www.cbc.ca/thecurrent/manifesto-Bruce-Mau.pdf) by Bruce Mau
 - [Graphic Design the New Basics](http://www.amazon.ca/dp/1568987021) by Ellen Lupton and Jennifer Cole Phillips
 - [Thinking with Type](http://www.amazon.ca/dp/1568989695) by Ellen Lupton
-- [Design of Everyday Thing](http://www.amazon.ca/dp/0465050654) by Don Norman
+- [Design of Everyday Things](http://www.amazon.ca/dp/0465050654) by Don Norman
 - [Helvetica](http://www.hustwit.com/category/helvetica/) by Gary Hustwit
 - [Objectified](http://www.hustwit.com/category/objectified/) by Gary Hustwit
+- [Inside Paragraphs](http://insideparagraphs.com/) by Cyrus Highsmith
