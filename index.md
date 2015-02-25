@@ -106,15 +106,15 @@ There are three assignments over the course of the term, totalling 100%. The ass
 
 All assignments will be graded on a ten-point scale:
 
-**10** 90%-100%, superb 
+**10** 95%-100%, superb 
 
-**9** 79%-89%, excellent 
+**9** 84%-94%, excellent 
 
-**8** 68%-78%, above average work, student understood problem assigned and successfully answered project, but not fully resolved 
+**8** 73%-83%, above average work, student understood problem assigned and successfully answered project, but not fully resolved 
 
-**7** 55%-67%, average work; project submitted needs to be more completely articulated, student lacks some understanding in some areas. 
+**7** 61%-73%, average work; project submitted needs to be more completely articulated, student lacks some understanding in some areas. 
 
-**6-5** 50%-54%, some problems have been noted, solution indicates a lack of understanding and insufficient level of execution. 
+**6-5** 50%-60%, some problems have been noted, solution indicates a lack of understanding and insufficient level of execution. 
 
 **4-0**, fail, work of solutions inappropriate; does not meet criteria assigned; level of work poor; lack of work; not enough effort put into project.
 
