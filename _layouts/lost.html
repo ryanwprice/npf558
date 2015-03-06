@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>UH-OH!</title>
+  
+  <!-- jQuery: Grab Google CDN jQuery. fall back to local if necessary -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script>!window.jQuery && document.write('<script src="/assets/jquery-1.4.1.min.js"><\/script>')</script>
+  
+  <!-- The raptorize file  -->
+  <script src="/assets/jquery.raptorize.1.0.js"></script>
+  
+  <!-- For the button version -->
+  <script type="text/javascript">
+    $(window).load(function() {
+      $('.button').raptorize();
+    });
+  </script>
+  
+  <!-- For the Konami Code version -->
+  <script type="text/javascript">
+    $(window).load(function() {
+      $('.button').raptorize({
+        'enterOn' : 'konami-code'
+      });
+    });
+  </script>
+  <style>
+body{
+  background: url(/assets/obiwan.gif) no-repeat 70% center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body h2{
+  color: #fc0 !important;
+  text-transform: uppercase;
+  text-align:center;
+  font-size:4.5rem;
+  line-height:0;
+  max-width:90%;
+  margin:0 auto;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: .05em .05em 0 black;
+}
+
+body h2 span{
+  color: #fc0;
+  display:block;
+  margin:0 auto;
+  margin-bottom:1.5em;
+}
+
+body#lost h2#obiwan span:nth-child(1){
+  font-size:1.5rem;
+  margin-top:1em;
+}
+body#lost h2#obiwan span:nth-child(2){
+  font-size: 2rem;
+}
+body#lost h2#obiwan span:nth-child(3){
+  font-size: 2.5rem;
+}
+body#lost h2#obiwan span:nth-child(4){
+  font-size: 3.5rem;
+}
+  </style>
+</head>
+<body id="lost">
+  <h2 id="obiwan"><span>This</span><span>is not</span><span>the page</span><span>you are</span> <span>looking for</span></h2>
+  
+  <div class="button"></div>
+  
+  
+</body>
+</html>
