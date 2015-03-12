@@ -77,23 +77,24 @@ _Note: If you feel you do not have the technical skills necessary for this assig
 
 ## Assignment 3 - Design Essay
 
-You will be expected to produce a 1000–1200 word essay that will explore an aspect of design covered over the course of the term and expand on the ideas discussed in class. You can discuss the topic as it relates to your own area of practice, or simply as a thought or idea of particular interest to you. 
+You will be expected to produce a 1000–1200 word essay that will explore a topic covered over the course of the term and expand on the ideas discussed in class. You can discuss the topic as it relates to your own area of practice, or simply as a thought or idea of particular interest to you. 
 
 The essays will be curated and presented as an online magazine and e-book. Options for a physical copy will be discussed and decided by the class.
 
 The assignment is due at the start of the last class of the term.
 
-Essays will be submitted in person as a print copy as well as submitted electronically.
+Essays must be submitted in person as a print copy as well as submitted electronically.
 
 ### Formatting
 
-To facilitate easy conversion for the online magazine and e-book (and print edition?), you will be asked to write your essay using a specific coding language, _Markdown_. This may seem like a difficult hurdle, but the language is very straighforward and there is a [syntax guide](http://daringfireball.net/projects/markdown/syntax) available to help you out. Basically, as long as you are only writing straight paragraphs, there is nothing you need to know. 
+To facilitate easy conversion for the online magazine and e-book (and print edition?), you will be asked to write your essay using a specific coding language, _Markdown_. This may seem like a difficult hurdle, but the language is very straighforward and there is a [syntax guide](http://daringfireball.net/projects/markdown/syntax) available to help you out. Basically, as long as you are only writing straight paragraphs, there is nothing you need to know. You can also download a basic [cheat sheet](/assets/markdown-cheatsheet.pdf) that should cover _everything_ you need.
 
-There are several editors which may also prove useful, but any text editor will suffice, as long as the file extension is _md_.
+There are several editors which may also prove useful, but any text editor will suffice, as long as the file extension is `md`.
 
 ### Markdown editors:
 
 - [iA Writer](https://ia.net/writer/mac/) — My personal favourite, but it also costs money
+- [Whiskey](http://usewhiskey.com/) — Free, Mac 
 - [Dillenger](http://dillinger.io/) — Free, web-based
 - [MarkdownPad](http://markdownpad.com/) — Free & Paid, Windows
 - [Mou](http://25.io/mou/) — Free, Mac
@@ -102,7 +103,7 @@ There are several editors which may also prove useful, but any text editor will 
 
 ### Metadata
 
-You are also required to include a set of metadata about your file. This is included at the start of your md file and should look like the example below:
+You are also required to include a set of metadata about your file. This is included at the start of your `md` file and should look like the example below:
 
 	---
 	title: Why Comic Sans is Great
@@ -115,7 +116,7 @@ You are also required to include a set of metadata about your file. This is incl
 	bio: Lorem ipsum dolor sit... 
 	---
 
-You can download the [sample.zip](/assets/sample.zip) file or copy & paste the text (including the dashes) above to get you started.
+You can download the [essay-sample.zip](/assets/essay-sample.zip) file or copy & paste the text (including the dashes) above to get you started.
 
 ### License
 
@@ -138,7 +139,7 @@ What would a design publication be without images? Along with your essay, please
 
 The headshot is for your author bio and should be cropped to 400&times;400px and saved as an RGB jpg. The filename should be all lowercase and written as `lastname-firstname-headshot.jpg`.
 
-Your main image can be whatever you want, but should help enhance the message of your essay in some way. Please do not put any text in the image, as it may be cropped during production. The final image must be 1500&times;850px and saved as a jpeg. The filename should be all lowercase and written as `lastname-firstname.jpg`. The image will not be considered in the final grade (unless it is absent), so you are free to use any rights-free image. Please ensure you give proper credit for the image, by including it as part of the image description in the metadata (see above).
+Your main image can be whatever you want, but should help enhance the message of your essay in some way. Please do not put any text in the image, as it may be cropped during production. The final image must be 940px&times;510px and saved as a jpeg. The filename should be all lowercase and written as `lastname-firstname.jpg`. The image will not be considered in the final grade (unless it is absent), so you are free to use any _rights-free_ image. Please ensure you give proper credit for the image by including it as part of the image description in the metadata (see above).
 
 ### Citations
 
@@ -150,9 +151,13 @@ Please email me at [ryan.price@ryerson.ca]({{ site.email }}) with the subject `N
 
 Your headshot image must be cropped to 400&times;400px and saved as an RGB jpg. The filename should be all lowercase and written as `lastname-firstname-headshot.jpg`.
 
-Your main article image must 1500&times;850px and saved as a jpeg. The filename should be all lowercase and written as `lastname-firstname.jpg`.
+Your main article image must 940px&times;510px and saved as a jpeg. The filename should be all lowercase and written as `lastname-firstname.jpg`.
 
 _Please, do not ask any questions or provide any other information in this email—all emails with this subject line will be auto-sorted by my computer and I will not be looking at them. If you have any questions please send a separate email with different subject line._
+
+The electronic submission and the paper copy of the essay are due at the start of the last class of the term.
+
+Note: Failure to format your files as indicated for the assignment may require that your work not be included in the final publication. If you have any questions or concerns about formatting, please ask well in advance of the due date.
 
 
  
