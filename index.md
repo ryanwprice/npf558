@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Syllabus
+title: END OF TERM NOTICES
 permalink: /
 ---
 
-## END OF TERM NOTICES:
+## :
 
 ### Grades
 
@@ -16,29 +16,31 @@ The online magazine will be available at [http://designissu.es](http://designiss
 
 You folks did an amazing job, and I am excited to finish this off and show off your talents! 
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
-
-
-
-
-
-
-
-
-
-
-
+## Syllabus
 
 ## Course Description
 
