@@ -4,6 +4,42 @@ title: Syllabus
 permalink: /
 ---
 
+## END OF TERM NOTICES:
+
+### Grades
+
+I will be in my office on Thursday, April 23rd from 11:30AM – 2:30PM to return all marked assignments. If you can not make it in, please arrange with me via [email](mailto:ryan.price@ryerson.ca) another way to return grades to you.
+
+### Essay publication
+
+The online magazine will be available at [http://designissu.es](http://designissu.es) and I hope to have it ready to go for May 1st
+
+You folks did an amazing job, and I am excited to finish this off and show off your talents! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Course Description
 
 This course will consider the influential role of design in film, photography and new media from a historical and theoretical perspective. The specific content of the course may vary according to the context and the particular focus of the curriculum in any given year. Practical workshops may be offered if appropriate to the material being presented. 

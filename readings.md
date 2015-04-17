@@ -64,3 +64,4 @@ Readings are to be completed _before_ the start of the class noted below.
 - [Helvetica](http://www.hustwit.com/category/helvetica/) by Gary Hustwit
 - [Objectified](http://www.hustwit.com/category/objectified/) by Gary Hustwit
 - [Inside Paragraphs](http://insideparagraphs.com/) by Cyrus Highsmith
+- [Aaron Draplin Takes On a Logo Design Challenge](https://vimeo.com/113751583) by Lynda.com
