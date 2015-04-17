@@ -6,7 +6,7 @@ permalink: /
 
 ### Grades
 
-I will be in my office on Thursday, April 23rd from 11:30AM – 2:30PM to return all marked assignments. If you can not make it in, please arrange with me via [email](mailto:ryan.price@ryerson.ca) another way to return grades to you.
+I will be in my office (IMA362) on **Thursday, April 23rd from 11:30AM – 2:30PM** to return all marked assignments. If you can not make it in, please arrange with me via [email](mailto:ryan.price@ryerson.ca) another way to return grades to you.
 
 ### Essay publication
 
