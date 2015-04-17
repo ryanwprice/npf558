@@ -4,8 +4,6 @@ title: END OF TERM NOTICES
 permalink: /
 ---
 
-## :
-
 ### Grades
 
 I will be in my office on Thursday, April 23rd from 11:30AM – 2:30PM to return all marked assignments. If you can not make it in, please arrange with me via [email](mailto:ryan.price@ryerson.ca) another way to return grades to you.
@@ -15,18 +13,6 @@ I will be in my office on Thursday, April 23rd from 11:30AM – 2:30PM to return
 The online magazine will be available at [http://designissu.es](http://designissu.es) and I hope to have it ready to go for May 1st
 
 You folks did an amazing job, and I am excited to finish this off and show off your talents! 
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
